@@ -6,4 +6,4 @@
   [python 实战](https://github.com/zhaojianping/StudyNote/python/ "Title").
   [开源项目剖析](https://github.com/zhaojianping/StudyNote/opensource/ "Title").
   
-  [d3 web图形库](https://github.com/mbostock/d3/wiki/Gallery "Title").
+  [d3 web图形库  可以实现 pivot table   ](https://github.com/mbostock/d3/wiki/Gallery "Title").
