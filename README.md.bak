@@ -8,7 +8,7 @@
   
   [d3 web图形库  可以实现 pivot table   ](https://github.com/mbostock/d3/wiki/Gallery "Title").
   [nodejs grunt 中文手册](http://javascript.ruanyifeng.com/tool/grunt.html,"grunt ")
-  [Linq4j java 集合操作库 简明介绍 ](http://www.cnblogs.com/buptzym/p/3282020.html  "")
+  [Linq4j简明介绍](http://www.cnblogs.com/buptzym/p/3282020.html  "")
   
 ```xml
 	<dependency>
