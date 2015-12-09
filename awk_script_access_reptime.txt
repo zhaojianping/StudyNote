@@ -1,1 +1,1 @@
-{FS=" "; stat[substr($6,0,index($6,"?"))] +=$7 ;total[substr($6,0,index($6,"?"))]+=1}END{ for (key in stat) { print "--"ENVIRON["HOSTNAME"] " "  key " " stat[key] " " total[key] " " stat[key]/total[key] } }
+{FS=" "; stat[substr($6,0,index($6,"?"))] +=$7 ;total[substr($6,0,index($6,"?"))]+=1}END{ for (key in stat) { print ENVIRON["HOSTNAME"] " "  key " " stat[key] " " total[key] " " stat[key]/total[key] } }
